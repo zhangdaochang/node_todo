@@ -1,0 +1,12 @@
+{
+  "name": "node_todo",
+  "version": "0.0.1",
+  "description": "node_tode",
+  "main": "index.js",
+  "author": "daochang",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^8.0.0"
+  }
+}
